@@ -1,0 +1,40 @@
+Patient-1:
+{'parkinson': '0.0091'}
+{'parkinson': ['0.0004', '0.181']}
+{'parkinson': ['tremor', 'T', 'tremor', 'F']}
+Patient-2:
+{'parkinson': '0.4855'}
+{'parkinson': ['0.0175', '0.985']}
+{'parkinson': ['tremor', 'T', 'tremor', 'F']}
+Patient-3:
+{'parkinson': '0.5863'}
+{'parkinson': ['0.181', '0.904']}
+{'parkinson': ['normal expression', 'F', 'stiff limbs', 'F']}
+Patient-4:
+{'parkinson': '0.0082'}
+{'parkinson': ['0.0004', '0.1985']}
+{'parkinson': ['tremor', 'T', 'tremor', 'F']}
+Patient-5:
+{'parkinson': '0.2474'}
+{'parkinson': ['0.0026', '0.985']}
+{'parkinson': ['tremor', 'T', 'tremor', 'F']}
+Patient-6:
+{'parkinson': '0.1262'}
+{'parkinson': ['0.0029', '0.9135']}
+{'parkinson': ['tremor', 'T', 'tremor', 'F']}
+Patient-7:
+{'parkinson': '0.0076'}
+{'parkinson': ['0.0004', '0.1005']}
+{'parkinson': ['normal expression', 'F', 'normal walk', 'T']}
+Patient-8:
+{'parkinson': '0.5398'}
+{'parkinson': ['0.0203', '0.985']}
+{'parkinson': ['tremor', 'T', 'tremor', 'F']}
+Patient-9:
+{'parkinson': '0.0029'}
+{'parkinson': ['0.0004', '0.0181']}
+{'parkinson': ['normal expression', 'F', 'normal walk', 'T']}
+Patient-10:
+{'parkinson': '0.3859'}
+{'parkinson': ['0.0343', '0.9156']}
+{'parkinson': ['normal expression', 'F', 'normal walk', 'T']}
